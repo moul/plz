@@ -23,6 +23,10 @@ Options:
 
 The prompt is taken from the command line arguments. For example, if you run `plz Hello World`, the prompt will be `Hello World`.
 
+## Install
+
+    go install moul.io/plz@latest
+
 ## Credits
 
 This tool is based on the [plz-cli](https://github.com/m1guelpf/plz-cli) tool developed by Miguel Piedrafita. This version is a personal adaptation by Manfred Touron, tailored to his specific needs.
